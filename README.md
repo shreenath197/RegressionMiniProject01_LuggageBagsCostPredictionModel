@@ -1,2 +1,2 @@
-# RegressionMiniProject01_LuggageBagsCostPredictionModel
-RegressionMiniProject01_LuggageBagsCostPredictionModel
+# Regression-Luggage-Bags-Cost-Prediction-Model
+Regression-Luggage Bags Cost Prediction Model
